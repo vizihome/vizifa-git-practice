@@ -1,1 +1,2 @@
 ﻿Hello Vizifa - Version 2
+A simple Git practice project for learning version control workflows.
